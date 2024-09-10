@@ -1,13 +1,13 @@
-# In-depth Analysis on Airbnb Dataset (Sentiment Analysis, Pretictive Modelling, and Visualisation)
+# In-depth Analysis of Airbnb Dataset (Sentiment Analysis, Predictive Modelling, and Visualisation)
 This work has been submitted in partial fulfilment of the requirements of the Masters Degree in Urban Data Science and Analytics of the University of Leeds.  
-- Date of submission: 3 December 2023
+- Date of submission: 4 December 2023
 - Authors: Aseem Shaikh, Chuangnan Liu, Subaru Shimizu, and Yuchi Lai 
 - Grade: 52/60
 
 
 **Overview:**  
 
-This work explores the dataset of Airbnb listings in London to provide insights about guest experiences and factors in price strategies and interactive visualisation tools.
+This work explores the dataset of Airbnb listings in London to provide insights about guest experiences and factors in price strategies with various visualisation tools.
 
 - *Topic: Airbnb*  
 - *Keywords: Geospatial analysis, Predictive modelling (regression model), Sentiment analysis, Interactive Visualisation*
