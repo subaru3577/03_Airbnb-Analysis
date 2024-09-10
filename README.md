@@ -1,7 +1,7 @@
 # In-depth Analysis of Airbnb Dataset (Sentiment Analysis, Predictive Modelling, and Visualisation)
 This work has been submitted in partial fulfilment of the requirements of the Masters Degree in Urban Data Science and Analytics of the University of Leeds.  
 - Date of submission: 4 December 2023
-- Authors: Aseem Shaikh, Chuangnan Liu, Subaru Shimizu, and Yuchi Lai 
+- Authors: Aseem Shaikh, Chuangnan Liu, Subaru Shimizu, and [Yuchi Lai](https://github.com/hongyue17/data_analysis_portfolio.git) 
 - Grade: 52/60
 
 
