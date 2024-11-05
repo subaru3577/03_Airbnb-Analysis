@@ -4,6 +4,7 @@ This work has been submitted in partial fulfilment of the requirements of the Ma
 - Authors: Aseem Shaikh, Chuangnan Liu, Subaru Shimizu, and [Yuchi Lai](https://github.com/hongyue17/data_analysis_portfolio.git) 
 - Grade: 52/60
 
+[JupyterNotebook](https://github.com/subaru3577/03_Airbnb-Analysis/blob/main/Airbnb_analysis.ipynb) is available.
 
 **Overview:**  
 
